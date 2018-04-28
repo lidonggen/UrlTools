@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="斗鱼URL启动小工具">
+    <output-path>D:/</output-path>
+    <root id="archive" name="UrlTool.jar">
+      <element id="module-output" name="UrlTool" />
+    </root>
+  </artifact>
+</component>
